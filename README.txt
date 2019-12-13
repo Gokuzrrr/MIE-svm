@@ -1,5 +1,13 @@
-MIE-svmÎÄ¼ş¼ĞÎ»ÖÃÓÒ¼ü+Shift£¬´ò¿ªÈÎÎñ¹ÜÀíÆ÷
-ÊäÈëÃüÁîĞĞ´ò¿ªcore_nlp·şÎñÆ÷
+R. Zhong, X. Li, D. Zhong, X. Jiang, X. Hu, T. He, â€œMicrobial Interaction Extraction based on Feature Vector and SVMâ€, APBC (Asia Pacific Bioinformatics Conference), 2019, Wuhan, China. Poster paper.
+
+å·¥å…·åŒ…ï¼š
+libsvmï¼šhttps://www.csie.ntu.edu.tw/~cjlin/libsvm/
+Stanford-corenlpï¼šhttps://nlp.stanford.edu/software/corenlp.html
+
+
+ä½¿ç”¨è¯´æ˜ï¼š
+MIE-svmæ–‡ä»¶å¤¹ä½ç½®å³é”®+Shiftï¼Œæ‰“å¼€ä»»åŠ¡ç®¡ç†å™¨
+è¾“å…¥å‘½ä»¤è¡Œæ‰“å¼€core_nlpæœåŠ¡å™¨
 java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
 
-ÔËĞĞbbi/main.py¼´¿ÉÔËĞĞ
+è¿è¡Œbbi/main.pyå³å¯è¿è¡Œ
